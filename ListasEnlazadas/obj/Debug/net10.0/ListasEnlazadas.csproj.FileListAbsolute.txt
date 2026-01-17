@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\ListasEnlazadas\bin\Debug\net10.0\ListasEnlazadas.exe
+C:\Users\Admin\Documents\ListasEnlazadas\bin\Debug\net10.0\ListasEnlazadas.deps.json
+C:\Users\Admin\Documents\ListasEnlazadas\bin\Debug\net10.0\ListasEnlazadas.runtimeconfig.json
+C:\Users\Admin\Documents\ListasEnlazadas\bin\Debug\net10.0\ListasEnlazadas.dll
+C:\Users\Admin\Documents\ListasEnlazadas\bin\Debug\net10.0\ListasEnlazadas.pdb
+C:\Users\Admin\Documents\ListasEnlazadas\obj\Debug\net10.0\ListasEnlazadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\ListasEnlazadas\obj\Debug\net10.0\ListasEnlazadas.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\ListasEnlazadas\obj\Debug\net10.0\ListasEnlazadas.AssemblyInfo.cs
+C:\Users\Admin\Documents\ListasEnlazadas\obj\Debug\net10.0\ListasEnlazadas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\ListasEnlazadas\obj\Debug\net10.0\ListasEnlazadas.dll
+C:\Users\Admin\Documents\ListasEnlazadas\obj\Debug\net10.0\refint\ListasEnlazadas.dll
+C:\Users\Admin\Documents\ListasEnlazadas\obj\Debug\net10.0\ListasEnlazadas.pdb
+C:\Users\Admin\Documents\ListasEnlazadas\obj\Debug\net10.0\ListasEnlazadas.genruntimeconfig.cache
+C:\Users\Admin\Documents\ListasEnlazadas\obj\Debug\net10.0\ref\ListasEnlazadas.dll
